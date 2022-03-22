@@ -33,10 +33,12 @@ Regiões?
 
 4-	ETL  = TALEND
 
-5-	DATA VIZ  = POWER BI
+5- SQL SERVER
+
+6-	DATA VIZ  = POWER BI
 
 
-6-	PARAMETRIZAÇÕES = INDICANDO OS IMPACTOS DO NEGÓCIO 
+7-	PARAMETRIZAÇÕES = INDICANDO OS IMPACTOS DO NEGÓCIO 
 
 A partir desse entendimento conseguimos automatizar todo o processo de extração, transformação, carga e visualização dos resultados, criando Jobs para serem executados conforme a necessidade da empresa seja diariamente em horário específico, semanalmente ou mensalmente. 
 
