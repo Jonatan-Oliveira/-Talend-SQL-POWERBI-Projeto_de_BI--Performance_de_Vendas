@@ -11,11 +11,17 @@ Esse projeto tem como objetivo identificar as oportunidades de otimização de p
 1-	NECESSIDADE E PERGUNTAS 
 
 Quais são os clientes?
+
 Quais são os produtos?
+
 Quais são as linhas de produtos mais relevantes?
+
 Margem de contribuição de vendedor e de produto?
+
 Volume de vendas?
+
 Metas?
+
 Regiões?
 
 2-	IDENTIFICAR OS KPIS 
